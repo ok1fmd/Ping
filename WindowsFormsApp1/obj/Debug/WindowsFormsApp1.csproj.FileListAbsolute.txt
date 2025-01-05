@@ -1,0 +1,10 @@
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\m2\moje\CSharp\Projekty\Aplikace\PingTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
